@@ -18,3 +18,13 @@ SCREENSHOTS
 
 LINKS
 
+https://perry85dallas.github.io/password-gener8or-hw3/
+
+RESOURCES
+
+https://www.youtube.com/watch?v=PkZNo7MFNFg
+https://www.w3schools.com/js/default.asp
+https://www.youtube.com/watch?v=duNmhKgtcsI&t=310s
+https://www.youtube.com/watch?v=iKo9pDKKHnc&t=282s
+https://www.youtube.com/watch?v=fOvYE1i_IiY
+https://w3collective.com/random-password-generator-javascript/
